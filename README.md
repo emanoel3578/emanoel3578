@@ -6,7 +6,7 @@ Sou desenvolvedor com **3 anos de experiência**, como muitos outros desenvolved
 
 ---
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt='github' height='60'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' alt='linkedin' height='60'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt='instagram' height='60'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' alt='website' height='70'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='website' height='60'>  
-Skills: **Laravel 8 (1+ano)**, PHP(OPO) ,**Vue js (1+ano)** , Firebase, **Javascript (3+ano)**, HTML, CSS
+Skills: **Laravel**, PHP(OPO) ,**Vue js** , Firebase, **Javascript (3+ano)**, HTML, CSS
 
 > 🔭 Estou Trabalhando em: on [Criação de API](http://example.com), [Site em Python usando Webscraping](http://example.com), [Sistema de finanças](http://example.com), [Sistema de questionério](http://example.com) 
 >> API: [Criação de API](http://example.com)
