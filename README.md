@@ -2,7 +2,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E6006E&center=true&vCenter=true&lines=Full-stack+web+Developer;%2B2+anos+de+experi%C3%AAncia+desenvolvendo;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
 
-Sou desenvolvedor com **3 anos de experiência**, como muitos outros desenvolvedores começei a paixão por programar quando tive meu primeiro contato com **jogos**, desde então aprendi a programar e desenvolver **aplicações**, **sites** e **sistemas** que ajudam empresas a solucionar problemas.
+Sou desenvolvedor com **6 anos de experiência**, como muitos outros desenvolvedores começei a paixão por programar quando tive meu primeiro contato com **jogos**, desde então aprendi a programar e desenvolver **aplicações**, **sites** e **sistemas** que ajudam empresas a solucionar problemas.
 
 ---
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' alt='github' height='60'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' alt='linkedin' height='60'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt='instagram' height='60'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' alt='website' height='70'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='website' height='60'>  
